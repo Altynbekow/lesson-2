@@ -61,3 +61,57 @@ var baby = {
   document.write(`<h3>${baby.roles[2]}</h3>`)
   document.write(`<h3>${baby.roles[3]}</h3>`)
   document.write(`<h3>${baby.description}</h3>`)
+
+  var lalafo = {
+    image: 'https://img5.lalafo.com/i/posters/api_webp/03/1c/09/debf8f854c695ed8e3c9fe4d54.webp',
+    moneyprice: "560 000KGS",
+    deklaration:"Продаю автомобиль",
+    description: 'Mitsubishi Delica: 1994 г., 3 л, Автомат, Бензин, Внедорожник',
+  }
+
+
+  document.write(`<img src='${lalafo.image}'alt='image' />`)
+  document.write(`<h3>${lalafo.moneyprice}<h3>`)
+  document.write(`<h3>${lalafo.deklaration}<h3>`)
+  document.write(`<h3>${lalafo.description}<h3>`)
+
+
+  var lalafo = {
+    image: 'https://img5.lalafo.com/i/posters/api_webp/21/31/6a/ac53f215b965d334dc06fccb08.webp',
+    moneyprice: "758 077KGS",
+    deklaration:"Продаю автомобиль",
+    description: 'Mitsubishi Montero Sport: 2002 г., 3 л, Автомат, Газ, Внедорожник',
+  }
+
+
+  document.write(`<img src='${lalafo.image}'alt='image' />`)
+  document.write(`<h3>${lalafo.moneyprice}<h3>`)
+  document.write(`<h3>${lalafo.deklaration}<h3>`)
+  document.write(`<h3>${lalafo.description}<h3>`)
+
+
+  var lalafo = {
+    image: 'https://img5.lalafo.com/i/posters/api_webp/fd/b3/78/d556e19aca3199bf5c5cc6b861.webp',
+    moneyprice: "624 299KGS",
+    deklaration:"Продаю автомобиль",
+    description: 'Mitsubishi Delica: 2003 г., 3 л, Автомат, Бензин, Внедорожник',
+  }
+
+
+  document.write(`<img src='${lalafo.image}'alt='image' />`)
+  document.write(`<h3>${lalafo.moneyprice}<h3>`)
+  document.write(`<h3>${lalafo.deklaration}<h3>`)
+  document.write(`<h3>${lalafo.description}<h3>`)
+
+  var lalafo = {
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAJvyh3jzaiKBL_sjJd5vd0SR9MZqXaQKf5pMDZsblmrIHTmNl87FdB2_RQe9INzOO74M&usqp=CAU',
+    moneyprice: "142 000USD",
+    deklaration:"Продаю автомобиль",
+    description: 'BMW M5 Competition, 2020, 15 000км, 4.4AT, 625л.с, бензин, полный привод, седан ',
+  }
+
+
+  document.write(`<img src='${lalafo.image}'alt='image' />`)
+  document.write(`<h3>${lalafo.moneyprice}<h3>`)
+  document.write(`<h3>${lalafo.deklaration}<h3>`)
+  document.write(`<h3>${lalafo.description}<h3>`)
